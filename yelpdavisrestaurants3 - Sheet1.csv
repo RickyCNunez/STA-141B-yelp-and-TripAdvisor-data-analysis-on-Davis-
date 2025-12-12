@@ -1,0 +1,198 @@
+Restaurant Name,Rating,Reviews,Type of Cuisine,Price Level
+Urban Plates,4.7,96,"New American, Sandwiches, Salad",NaN
+88 BaoBao,3.9,16,"Dim Sum, Noodles, Asian Fusion",NaN
+Sam's Cuisine,4.4,1400,"Mediterranean, Halal",$$
+Sit Lo Saigon,4.2,231,"Vietnamese, Noodles, Soup",$$
+The Melt,4.6,51,"Burgers, Sandwiches, Chicken Shop",NaN
+Good Friends Hawaiian Poke,4.6,604,"Poke, Seafood, Hawaiian",$$
+Yang Kee Dumpling,4.6,675,"Dim Sum, Desserts, Noodles",$$
+Tim's Kitchen,4.3,124,"Asian Fusion, Hong Kong Style Cafe, Steakhouses",$$
+Mom's Dumpling,4.5,13,"Dim Sum, Seafood",NaN
+Estelle Bakery & Patisserie,3.9,83,"Bakeries, Breakfast & Brunch, Patisserie/Cake Shop",$$
+My Burma,4.5,681,"Burmese, Asian Fusion, Thai",$$
+Guads Tacos & Beer,4.6,421,"Beer Bar, Tacos",$$
+Yuchan Shokudo,3.9,709,"Ramen, Japanese Curry",$$
+Taqueria Guadalajara - North Davis,4.2,1000,Mexican,$
+Dumpling House,3.9,1500,"Chinese, Dumplings",$$
+Upper Crust Baking,4.2,189,"Bakeries, Desserts, Pizza",$$
+Bull 'N Mouth,3.8,138,"New American, Burgers, Beer Bar",$$
+Acai Fresh,4.4,59,Acai Bowls,NaN
+The Old Teahouse,4.3,58,"Bubble Tea, Tea Rooms, Juice Bars & Smoothies",NaN
+Dah Bao,4.6,57,"Chinese, Bubble Tea",$$
+Pupusas Y Mas,4.7,22,"Food Trucks, Mexican, Salvadoran",NaN
+Tasty Pot,4.3,96,"Taiwanese, Hot Pot, Chicken Wings",NaN
+Tasty Palace,4.1,124,Chinese,$$
+Shabu Shack,4.1,106,Japanese,NaN
+Bruxie,3.7,179,"Chicken Shop, Sandwiches",$$
+Mendocino Farms,4.3,33,"Salad, Sandwiches",NaN
+Shah's Halal Food,4.7,3,"Halal, Middle Eastern, Mediterranean",NaN
+Crepeville,3.8,1200,"Breakfast & Brunch, Creperies, Sandwiches",$$
+Burgers and Brew,3.8,2400,"Burgers, Bars",$$
+Hikari Sushi & Omakase,4.9,222,"Sushi Bars, Japanese",$$$$
+Outpost Burger,4.3,109,"Burgers, Hot Dogs, Sandwiches",$$
+T-Kumi Ramen & Rice Bowl,4.1,458,"Ramen, Asian Fusion, Beer, Wine & Spirits",$$
+MightyGoodFood,5,7,"Caterers, Personal Chefs, Food Delivery Services",$$
+Cajun Feast,3.6,199,"Cajun/Creole, Asian Fusion, Breakfast & Brunch",$$
+Molly Jasmine Tea Shoppe,4.4,114,"Juice Bars & Smoothies, Coffee & Tea",$$
+Shah's Halal Food - University Mall,4.3,391,"Food Trucks, Halal, Mediterranean",$$
+Ali Baba,3.7,478,Middle Eastern,$
+Ike's Love & Sandwiches,3.9,464,Sandwiches,$$
+Tasty Gourmet,4.7,372,"Cantonese, Dim Sum, Seafood",$$
+Mermaid Sushi,4.4,56,"Sushi Bars, Seafood, Salad",$
+Taffach Ethiopian Restaurant,3.8,61,Ethiopian,NaN
+The Posh Bagel,4,374,"Bagels, Coffee & Tea, Sandwiches",$
+Volt Coffee Tea & Tap,4.2,58,"Coffee & Tea, Beer Bar",NaN
+Calicraft Brewing,3.7,29,Breweries,NaN
+Hunan Style,4.2,54,"Chinese, Desserts, Soup",$$
+Frenzy Coffee,4.1,65,"Coffee Roasteries, Coffee & Tea",NaN
+Nick The Greek,4.3,258,Greek,$$
+MAYA'S Authentic Mexican Food,3.9,116,"Salad, Seafood, Mexican",$$
+Thai Canteen,3.7,1200,"Thai, Noodles",$$
+Show Izakaya,4.3,74,"Japanese, Sushi Bars",NaN
+Delta of Venus,3.9,439,"Pubs, Cafes, Breakfast & Brunch",$$
+Chandos,4.8,5,Food Trucks,NaN
+Tim’s Hawaiian BBQ,4,65,"Ramen, Hawaiian, Barbeque",NaN
+Mikuni,4,1200,"Japanese, Sushi Bars, Seafood",$$
+Cloud Forest Cafe,3.9,362,"Coffee & Tea, Breakfast & Brunch, Salad",$
+Paesanos,3.7,843,"Italian, Pizza",$$
+Cafe Bernardo,3.5,807,New American,$$
+Village Bakery,4.2,360,"Bakeries, Pizza, Salad",$
+The Chocolate Bar Davis,5,4,"Desserts, Cooking Classes",NaN
+Taqueria Davis,4.4,712,Mexican,$$
+Pho Tasty,3.9,213,"Vietnamese, Noodles",$$
+Raising Cane's Chicken Fingers,3.3,227,"Chicken Shop, Fast Food",$$
+Tim's Hawaiian BBQ,4.2,140,"Hawaiian, Barbeque",$$
+Paste Thai,4,116,Thai,$$
+Open Rice Kitchen,3.2,677,"Chinese, Asian Fusion, Soup",$
+Taqueria El Burrito,3.5,586,Mexican,$$
+I Love Sushi,3.6,321,"Sushi Bars, Japanese, Buffets",$$
+Honey D Cafe,3.8,111,"Taiwanese, Desserts, Cafes",$$
+Falafel Corner,4.5,82,"Mediterranean, Halal, Greek",NaN
+Zia's Delicatessen,4.1,445,"Delis, Sandwiches",$
+Latitude,4,16,"Middle Eastern, Latin American, Indian",NaN
+Village Pizza & Pints,4.2,179,Pizza,$$
+The Hotdogger,4,349,Hot Dogs,$
+Smokin'Ewe BBQ,3.5,55,Barbeque,$$
+Taquitos La Bombonera 1,5,12,"Food Trucks, Mexican",NaN
+Pachamama Coffee,4.2,153,"Coffee & Tea, Cafes",$
+Woodstock's Pizza Davis,3.9,1100,"Pizza, Gluten-Free, Desserts",$$
+Zumapoke & Lush Ice,4.3,651,"Seafood, Hawaiian, Poke",$$
+Red 88 - Davis,3.3,544,"Bars, Noodles",$$
+Pho Yummy,4.1,26,Vietnamese,NaN
+Tea List,4.2,580,"Coffee & Tea, Tea Rooms, Sandwiches",$$
+Root Of Happiness,4.4,252,"Coffee & Tea, Lounges",$$
+Manna Korean Restaurant,3.1,327,Korean,$$
+Fire Wings - Davis,3.4,260,Chicken Wings,$$
+Well Season,3.7,245,"Dim Sum, Cantonese, Seafood",$$
+Three Ladies Cafe,3.3,249,"Juice Bars & Smoothies, Sandwiches, Breakfast & Brunch",$$
+Jusco Japanese Restaurant,3.5,401,"Japanese, Sushi Bars, Buffets",$$
+L&L Hawaiian Barbecue,3.4,7,"Hawaiian, Barbeque",NaN
+World Traveler Coffee Roasters,3.7,25,"Coffee Roasteries, Coffee & Tea, Cupcakes",NaN
+Royal Kabob & Falafel,4.3,41,"Falafel, Burgers, Kebab",NaN
+The Mustard Seed,3.9,428,"New American, Desserts, Wine Bars",$$$
+Blaze Pizza,4,589,"Pizza, Salad, Fast Food",$
+Osteria Fasulo,4.2,364,Italian,$$$
+Davis Noodle City,3.4,548,"Taiwanese, Chinese, Noodles",$
+Wingstop,2.5,225,Chicken Wings,$$
+i-Tea,3.5,171,"Bubble Tea, Juice Bars & Smoothies, Ramen",$
+Teabo Café,3.5,661,"Cafes, Bubble Tea",$
+Jack in the Box,2,152,"Fast Food, Burgers, Tacos",$
+Tasty Kitchen,3.3,326,Cantonese,$$
+Froggy's,4,344,"Bars, Burgers, American",$$
+Fourteasons Coffee & Tea,4,149,Bubble Tea,$
+Wok of Flame,4,658,"Chinese, Desserts",$$
+Lazi Cow,3.5,535,"Desserts, Bubble Tea, Ramen",$
+Taco Bell,2.4,98,"Fast Food, Mexican",$
+Yeti Restaurant,4.1,474,"Indian, Himalayan/Nepalese, Seafood",$$
+Jack's Urban Eats,3.1,358,"American, Salad, Sandwiches",$$
+Ume Tea - Davis,4.5,284,Bubble Tea,$$
+Pink Dozen,4.7,143,Donuts,$
+Tommy J's Grill & Catering,4.3,466,"Burgers, American, Bars",$$
+Sudwerk Brewing Co,3.8,261,"Breweries, New American, Cocktail Bars",$
+Davis Sushi & Fusion,4.3,35,"Sushi Bars, Noodles, Asian Fusion",NaN
+Huku Japanese Bistro,4.1,534,"Japanese, Sushi Bars",$$
+Nopalito Taqueria,3.7,6,Mexican,NaN
+Capitol Cakery,5,8,Desserts,NaN
+Taqueria Guadalajara Grill - South Davis,3.9,446,Mexican,$$
+Cattlemens,3.8,1300,"Seafood, Steakhouses, American",$$$
+Black Bear Diner Davis,3.5,677,"American, Breakfast & Brunch, Diners",$$
+In-N-Out Burger,4.1,475,"Fast Food, Burgers",$
+Sophia's Thai Bar & Kitchen,3.5,875,"Thai, Seafood, Cocktail Bars",$$
+Mr. Pickle's Sandwich Shop,3.9,153,"Sandwiches, New American, Soup",$
+Symposium Restaurant & Pizza House,3.7,228,"Pizza, Greek",$$
+Philz Coffee,4,280,"Coffee & Tea, Breakfast & Brunch",$
+Zen Toro Japanese Bistro & Sushi Bar,3.8,593,"Sushi Bars, Japanese",$$
+Sahara Kebabs,4.5,11,Food Trucks,NaN
+TOMO Tea House,4.3,83,"Bubble Tea, Coffee & Tea, Donuts",$$
+Pho King 4,2.8,808,"Vietnamese, Chinese",$$
+Mumpys street eats,3.8,24,"Food Trucks, Tacos, Caterers",NaN
+Orangecourt,4,2,"Massage, Hot Dogs, Thai",NaN
+Tres Hermanas,3.5,455,"Mexican, Bars",$$
+Noah's NY Bagels,2.5,256,"Bagels, Breakfast & Brunch, Sandwiches",$$
+Beach Hut Deli,3.3,208,"Sandwiches, Delis, Salad",$$
+Kathmandu Kitchen,3.7,590,"Indian, Himalayan/Nepalese",$$
+El Patio Fresh Mexican Grill,3.7,251,"Breakfast & Brunch, Tacos",$
+Fusion Fresh Cafe,3.8,25,Food Trucks,$
+Nami Sushi,3.6,344,"Sushi Bars, Japanese",$$
+Aria Hungry,5,3,Bakeries,NaN
+Temple Coffee Roasters,4.3,634,"Coffee & Tea, Coffee Roasteries",$$
+The Candy House of Davis,4.7,86,"Candy Stores, Chocolatiers & Shops",$$
+IHOP,2.6,200,"Breakfast & Brunch, American, Burgers",$$
+Insomnia Cookies,3.3,177,"Desserts, Ice Cream & Frozen Yogurt, Food Delivery Services",$
+Pizza Guys,3.6,116,"Pizza, Chicken Wings",$
+Ding How Restaurant,3.4,328,"Chinese, Vegetarian, Vegan",$
+Panera Bread,2.9,209,"Sandwiches, Salad, Soup",$
+Three Mile Brewing,4.5,136,Breweries,$$
+Maui Smoothie,4.8,6,"Food Trucks, Juice Bars & Smoothies, Coffee & Tea",NaN
+Teaspoon,4.6,176,Bubble Tea,$
+Zacapa Papusas Y Mas,4.8,4,"Food Trucks, Salvadoran",NaN
+Spokes,3.4,9,"Burgers, Fast Food, Bubble Tea",NaN
+Icekrimski Cafe,4.2,181,"Ice Cream & Frozen Yogurt, Cafes",$
+Cuarto Dining Commons,4.2,19,"Buffets, Cafeteria",$
+Preethi Indian Cuisine,3.7,414,"Indian, Vegan, Soup",$$
+Hunan Bar & Restaurant,3.5,360,"Chinese, Seafood, Bars",$$
+Handheld Sweet And Savory Pies,4,5,"Desserts, Food Trucks",NaN
+Dos Coyotes Border Cafe,3.6,585,"Tex-Mex, Tacos",$
+Why Not Boba,3.6,37,"Donuts, Bubble Tea, Coffee & Tea",NaN
+Davis Creamery,4.4,428,"Ice Cream & Frozen Yogurt, Desserts",$
+T% Coffee + Tea - Davis,4.1,82,"Bubble Tea, Coffee & Tea, Juice Bars & Smoothies",$$
+Stand Up Kabob,4.5,75,"Middle Eastern, Persian/Iranian",NaN
+Cafe 110,2.5,8,"American, Coffee & Tea",$
+McDonald's,2.6,216,"Fast Food, Burgers, Coffee & Tea",$
+Street Cravings,4.3,14,"Food Trucks, Tacos, Sandwiches",NaN
+Steve's Pizza,3.6,265,"Pizza, Italian",$$
+Say Cheese,5,1,Specialty Food,NaN
+The Gunrock,3.9,58,New American,$$
+Fluffy Donuts,4.2,312,"Donuts, Coffee & Tea, Bagels",$
+Baba’s Chaska Point,4.8,9,"Food Trucks, Burgers, Pakistani",NaN
+Mandalay Express,5,1,Vietnamese,NaN
+Mishka's Cafe,3.8,568,Coffee & Tea,$$
+Dos Coyotes Border Cafe,3.6,491,"Tex-Mex, Tacos",$$
+TxMx Grill,2.9,9,"Food Court, Mexican",$
+Bare Juices,3.8,17,"Juice Bars & Smoothies, Food Stands",NaN
+Wines In Tandem,5,3,"Wine Tasting Room, Beer, Wine & Spirits",NaN
+Scrubs Cafe,3.3,37,"Coffee & Tea, Breakfast & Brunch, Burgers",$
+Dunloe Brewing - The Local,4.7,26,Breweries,NaN
+Aggie Yogurt,4,52,Ice Cream & Frozen Yogurt,NaN
+Shah's Halal Food - UC Davis Silo,4.2,19,"Halal, Falafel, Food Trucks",NaN
+Kona Ice,5,13,"Shaved Ice, Food Trucks, Caterers",NaN
+The Pepper Peddler,4.8,4,Coffee & Tea,NaN
+Coho South Cafe,3.2,20,"Coffee & Tea, Sandwiches, Cafeteria",$$
+Rare Tea - Davis,3.5,199,Bubble Tea,$
+King Hall Coffee,5,1,"Coffee & Tea, Bakeries",NaN
+Dunloe Brewing,4.6,74,Breweries,$$
+University Of Beer,3.9,269,"Beer Bar, Sports Bars, Brewpubs",$$
+Cenario's Pizza of Davis,3.7,118,"Pizza, Chicken Wings, Italian",$
+Mountain Mike's Pizza,3.8,76,"Pizza, Chicken Wings",$$
+Segundo Dining Commons,3.7,55,Cafeteria,$
+Bangin Bowls,1,1,Latin American,NaN
+Calzone Life,1,1,"Food Delivery Services, Italian, Pizza",NaN
+The Davis Beer Shoppe,4.3,267,"Beer, Wine & Spirits",$$
+Panda Express,2.4,152,"Chinese, Fast Food",$
+Chipotle Mexican Grill,2.7,327,"Mexican, Fast Food",$$
+KFC,1.7,196,"Fast Food, Chicken Wings, Chicken Shop",$
+Peet's Coffee at the ARC,3.4,5,Coffee & Tea,NaN
+TOGO'S Sandwiches,3.3,78,"Sandwiches, Fast Food, Salad",$
+Aggie Liquor & Deli,3.3,31,"Beer, Wine & Spirits",$
+MandRo Teahouse,3.9,630,"Bubble Tea, Desserts, Shaved Snow",$$
+Silo,2.8,36,Fast Food,$

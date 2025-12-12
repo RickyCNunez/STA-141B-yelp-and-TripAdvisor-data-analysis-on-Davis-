@@ -1,0 +1,160 @@
+Restaurant Name,Rating,Reviews,Cuisine/Type,Price Level,Address,Latitude,Longitude
+The Mustard Seed,4.3,226,American,$$$$ ,"222 D St #11, Davis, CA 95616",38.5445,-121.742
+Osteria Fasulo,4.3,148,Italian,$$$$,"2657 Portage Bay E, Davis, CA 95616",38.55,-121.78
+Burgers & Brew,4.2,434,American,$$ - $$$ ,"403 3rd St, Davis, CA 95616",38.54,-121.74
+Paesano's,4,148,Italian,$$ - $$$,"139 G St, Davis, CA 95616",38.54,-121.74
+Mikuni Japanese Restaurant & Sushi Bar,4.3,106,"Japanese, Sushi",$$ - $$$,"1350, 500 1st St, Davis, CA 95616",38.54,-121.74
+Sam's Cuisine,4.5,44,"Lebanese, Mediterranean",$,"301 B St, Davis, CA 95616",38.54,-121.75
+Sophia's Thai Kitchen,4.1,136,"Asian, Thai",$$ - $$$,"129 E St, Suite E, Davis, CA 95616",38.54,-121.74
+Black Bear Diner,4,182,"American, Breakfast",$$ - $$$,"255 2nd St, Davis, CA 95616",38.5428,-121.7447
+Woodstock's Pizza Davis,4.1,135,"American, Pizza",$$ - $$$,"238 G St, Davis, CA 95616",38.54,-121.74
+Dumpling House,4.1,55,"Chinese, Asian",$,"129 E St, Davis, CA 95616",38.54,-121.74
+Wok of Flame,4.3,69,"Chinese, Asian",$$ - $$$,"417 Mace Blvd, Davis, CA 95618",38.55,-121.7
+Taqueria Davis,4.5,70,Mexican,$,"505 1/2 L St, Davis, CA 95616",38.55,-121.73
+Tres Hermanas,3.9,70,Mexican,$$ - $$$,"805 2nd St, Davis, CA 95616",38.54,-121.74
+Burma Eat,4.4,14,"Asian, Burmese",$$ - $$$,"500 1st St, Suite 11, Davis, CA 95616",38.54,-121.74
+Froggy's,4.2,34,"American, Bar",$$ - $$$,"726 2nd St, Davis, CA 95616",38.54,-121.74
+Farmer's Kitchen Cafe at Natural Food Works,4.3,17,Cafe,$$ - $$$,"624 4th St, Davis, CA 95616",38.55,-121.74
+Yeti Retaurant,4.3,33,"Indian, Asian",$$ - $$$,"234 E St, Davis, CA 95616",38.54,-121.74
+Zen-Toro At Davis,4.2,58,"Japanese, Sushi",$$ - $$$,"132 E St #100, Davis, CA 95616",38.54,-121.74
+Delta of Venus,4.1,32,"American, Cafe",$$ - $$$,"122 B St, Davis, CA 95616",38.54,-121.74
+Tea List,4.7,27,Tea,$$ - $$$,"222 D St, Davis, CA 95616",38.54,-121.74
+Symposium Restaurant & Pizza,4,54,"Pizza, Mediterranean",$$ - $$$,"1620 E 8th St, Davis, CA 95616",38.5681,-121.7169
+Lamppost Pizza,4.7,21,Pizza,$$ - $$$,"1260 Lake Blvd, Suite 113, Davis, CA 95616",38.55,-121.79
+Good Friends Hawaiian Poke & Ramen,5,6,"Japanese, Hawaiian",$$ - $$$,"400 G St, Davis, CA 95616",38.5471,-121.7431
+Guads Tacos And Beer,4.5,4,Mexican,$,"231 3rd St, Davis, CA 95616",38.54,-121.75
+Huku Japanese Bistro,3.8,39,"Japanese, Sushi",$$ - $$$,"417 Mace Blvd #D, Davis, CA 95618",38.55,-121.7
+Tasty Kitchen,4.1,29,"Chinese, Asian",$$ - $$$,"335 F St, Davis, CA 95616",38.55,-121.74
+Yuchan Shokudo,4.1,26,Japanese,$$ - $$$,"109 E St, Davis, CA 95616",38.54,-121.74
+Kathmandu Kitchen,3.8,95,"Indian, Nepali",$$ - $$$,"234 G St #4517, Davis, CA 95616",38.54,-121.74
+Mamma,3.1,7,"Italian, American",$$ - $$$,"226 F St, Davis, CA 95616",38.54,-121.74
+Tommy J's Grill & Catering,4.5,18,Bar,$,"726 2nd St, Davis, CA 95616",38.54,-121.74
+Taqueria Guadalajara Grill,4.3,62,Mexican,$,"417 Mace Blvd A, Davis, CA 95618",38.5539,-121.7013
+Thai Canteen,3.9,26,"Asian, Thai",$,"117 E St, Davis, CA 95616",38.5445,-121.741
+Preethi Indian Cuisine,3.9,45,Indian,$$ - $$$,"715 2nd St, Davis, CA 95616",38.5434,-121.7483
+Blaze Pizza,4.1,29,"American, Pizza",$,"212 F St, Davis, CA 95616",38.5447,-121.7454
+Yang Kee Dumpling,4.5,2,Chinese,$$ - $$$,"2151 Cowell Blvd C, Davis, CA 95618",38.5422,-121.7001
+Davis Noodle City,3.6,25,"Chinese, Asian",$,"129 E St, Davis, CA 95616",38.5447,-121.7431
+University of Beer - Davis,4.1,27,Bar,$$ - $$$,"615 3rd St, Davis, CA 95616",38.5456,-121.7481
+Hunan Bar & Restaurant,3.6,37,"Chinese, Asian",$,"207 D St, Davis, CA 95616",38.5446,-121.7423
+Three Ladies Cafe,3.8,5,Healthy,$$ - $$$,"130 G St, Suite A, Davis, CA 95616",38.5439,-121.746
+Three Mile Brewing,4.5,13,Bar,$$ - $$$,"231 G St #3, Davis, CA 95616",38.5447,-121.7455
+Steve's Pizza,3.9,23,"Italian, Pizza",$$ - $$$,"314 F St, Davis, CA 95616",38.5455,-121.7454
+IHOP,3.9,25,American,$$ - $$$,"1745 Cowell Blvd, Davis, CA 95618",38.5422,-121.7208
+"Casablanca Moroccan Restaurant Davis, Ca",5,2,"Moroccan, Mediterranean",$$ - $$$,"640 W Covell Blvd, Davis, CA 95616",38.5606,-121.777
+Cenario's Pizza,5,3,Pizza,$,"1300 E Covell Blvd, Davis, CA 95616",38.5603,-121.7371
+The Davis Beer Shoppe,4.5,20,Bar,$$ - $$$,"211 G St, Davis, CA",38.5457,-121.7441
+Tasty Gourmet,4.2,5,Chinese,$$ - $$$,"2880 5th St #125, Davis, CA 95618",38.5445,-121.6961
+Village Pizza and Pints,4,4,Pizza,$$ - $$$,"236 B St, Davis, CA 95616",38.5456,-121.7455
+Teabo Café,5,3,Cafe,$,"2191 Cowell Blvd, Suite E, Davis, CA 95618",38.5422,-121.7002
+T-Kuni Ramen & Rice Bowl,4,3,"Asian, Japanese",$$ - $$$,"1260 Lake Blvd, Davis, CA 95616",38.5539,-121.785
+Nugget Markets,5,2,"Italian, American",$$ - $$$,"1414 E Covell Blvd or 409 Mace Blvd, Davis, CA",38.5615,-121.7346
+Open Rice Kitchen,3.5,10,Asian,$,"204 G St, Davis, CA 95616",38.5451,-121.7437
+Sudwerk Brewing Co. Dock,4.3,3,Bar,$,"2001 Second St, Davis, CA 95618",38.5524,-121.7143
+Manna Korean Restaurant,3.3,10,"Asian, Korean",$$ - $$$,"622 3rd St, Davis, CA 95616",38.546,-121.7479
+Nami Sushi,4.2,6,Sushi,$$ - $$$,"2880 5th St #105, Davis, CA 95618",38.5444,-121.696
+Ding How Restaurant,2.9,22,"Chinese, Asian",$$ - $$$,"640 W Covell Blvd, Davis, CA 95616",38.5606,-121.777
+Round Table Pizza,2.8,5,Pizza,$,"1709 H St, Davis, CA 95616",38.563,-121.7341
+3rd & U Cafe,3.9,7,Cafe,$,"100 B St, Davis, CA 95616",38.5447,-121.7454
+Red 88 Noodle Bar,3.4,9,Asian,$$ - $$$,"223 G St, Davis, CA 95616",38.5451,-121.7439
+Chipotle Mexican Grill,3.9,29,"Mexican, Southwestern",$,"231 G St, Davis, CA 95616",38.5451,-121.7441
+Bull 'N Mouth,4,2,American,$$ - $$$,"217 E St, Davis, CA 95616",38.5447,-121.7428
+I Love Sushi,3.5,4,"Japanese, Sushi",$$ - $$$,"620 W Covell Blvd, Davis, CA 95616",38.5606,-121.777
+Wiki Bar,4,3,American,$,"234 D St, Davis, CA 95616 (Inside Cafe Bernardo)",38.5445,-121.7423
+Hikari Sushi & Omakase,4.5,2,Sushi,$$ - $$$,"806 2nd St, Davis, CA 95616",38.5434,-121.7483
+Pho King 4,3.1,18,"Asian, Vietnamese",$,"251 G St, Davis, CA 95616",38.5451,-121.7441
+Panda Express,3.4,14,Chinese,$,"1431 W Covell Blvd, Davis, CA 95616",38.5615,-121.782
+Zumapoke & Lush Ice,4.5,4,Seafood,$$ - $$$,"224 G St, Davis, CA 95616",38.5451,-121.7441
+Subway,4,5,"Fast Food, Deli",$,"1411 W Covell Blvd, Davis, CA 95616",38.5615,-121.782
+Fluffy Do-Nuts & Sandwich Shop,3.9,7,"Donuts, Deli",$,"211 F St, Davis, CA 95616",38.5447,-121.7454
+Subway,4.5,2,Deli,$,"129 E St, Davis, CA 95616",38.5447,-121.7431
+Mayas Authentic Mexican Food,4,1,Mexican,$,"237 D St, Davis, CA 95616",38.5445,-121.7423
+TOGO'S Sandwiches,3.6,5,Deli,$$ - $$$,"1411 W Covell Blvd, Davis, CA 95616",38.5615,-121.782
+Ali BABA Middle Eastern Restaurant,3.7,13,Middle Eastern,$,"503 3rd St, Davis, CA 95616",38.5454,-121.7466
+Jusco Japanese Restaurant,3.3,6,Japanese,$$ - $$$,"213 E St, Davis, CA 95616",38.5447,-121.7431
+Cajun Feast,4,1,"Chinese, Cajun&Creole",$$ - $$$,"206 3rd St, Davis, CA 95616",38.5447,-121.7454
+Nugget Markets,5,1,Supermarket,$$ - $$$,"1414 E Covell Blvd or 409 Mace Blvd, Davis, CA 95618",38.5615,-121.7346
+McDonald's,2.7,7,American,$,"131 E St, Davis, CA 95616",38.5447,-121.7431
+Scrubs Cafe,4,1,Cafe,$,"231 G St, Davis, CA 95616",38.5451,-121.7441
+Well Season,4.7,3,Chinese,$$ - $$$,"2505 Aggie Ln, Davis, CA 95616",38.5401,-121.7248
+Ike's Place,4.5,4,Deli,$,"500 1st St, Davis, CA 95616",38.543,-121.741
+Raising Cane's Chicken Fingers,4,1,American,$,"118 B St, Davis, CA 95616",38.5445,-121.7456
+The Halal Guys,3.5,2,Middleeastern,$$ - $$$,"500 1st St, Davis, CA 95616",38.543,-121.741
+Mr. Pickle's Sandwich Shop,3.5,8,Deli,$,"1411 W Covell Blvd, Davis, CA 95616",38.5615,-121.782
+Upper Crust Baking - Davis & Winters,5,1,Bakery,$,"634 G St, Davis, CA 95616",38.5471,-121.7448
+Blondies New York Pizza Company,3.7,7,Pizza,$$ - $$$,"330 G St, Davis, CA 95616",38.5615,-121.782
+Wingstop,NaN,0,American,$,"400 G St, Davis, CA 95616",38.5471,-121.7431
+Pizza Guys,3.2,5,Pizza,$,"505 L St, Davis, CA 95616",38.5529,-121.741
+Insomnia Cookies,5,1,Cookies,$,"202 E St, Davis, CA 95616",38.5447,-121.7428
+Hometown Taiwanese Kitchen & Bar,4.5,2,"Taiwanese, Bar",$,"330 G St, Davis, CA 95616",38.5451,-121.7441
+Starbucks,3.5,4,Cafe,$,"403 Mace Blvd, Davis, CA 95618",38.5539,-121.7013
+El Patio Fresh Mexican Grill,5,1,Mexican,$,"200 E St, Davis, CA 95616",38.5447,-121.7428
+Cultive Frozen Yogurt,4,6,Yogurt,$,"231 E St, Davis, CA 95616",38.5447,-121.7428
+Oren's Hummus,4,1,Israeli,$,"500 1st St Ste 13a, Davis, CA 95616",38.543,-121.741
+Taco Bell,4,1,Mexican,$,"425 G St, Davis, CA 95616",38.5471,-121.7431
+Lazi Cow,5,1,"Japanese, Boba",$,"407 G St #4, Davis, CA 95616",38.5471,-121.7431
+Mr Pickle's Sandwich Shop,4,1,Deli,$$ - $$$,"2191 Cowell Blvd, Ste. F, Davis, CA 95618",38.5422,-121.7002
+Davis Wine Bar,3,1,Bar,$$ - $$$,"611 2nd St, Davis, CA 95616",38.5434,-121.7483
+Jack-In-The Box,2.7,3,"Mexican, American",$,"337 G St, Davis, CA 95616",38.5451,-121.7441
+Burger King,5,1,American,$,"2026 Lyndell Ter, Davis, CA 95616",38.5413,-121.7145
+Little Caesars,3,1,"Pizza, American",$,"1340 E Covell Blvd, Unit 103, Davis, CA 95616",38.5603,-121.7371
+Jamba Davis II,NaN,0,Smoothie,$,"1361 W Covell Blvd #115, Davis, CA 95616",38.5615,-121.782
+Shipwrecked Tiki Bar,NaN,0,Bar,$$ - $$$,"316 C St, Davis, CA 95616 (or formerly at this address)",38.5445,-121.7444
+The Melt,NaN,0,American,$,"500 1st St, Davis, CA 95616 (Operating out of Local Kitchens)",38.543,-121.741
+Peet's Coffee,NaN,0,Cafe,$,"238 G St, Davis, CA 95616 (There are multiple, this is downtown)",38.5451,-121.7441
+Pho Tasty,NaN,0,Vietnamese,$$ - $$$,"211 F St, Davis, CA 95616",38.5447,-121.7454
+Outpost Burger,NaN,0,American,$,"330 G St, Davis, CA 95616",38.5451,-121.7441
+Pressed,NaN,0,Juice,$,"200 B St, Davis, CA 95616",38.5445,-121.7456
+Pachamama Davis,NaN,0,Cafe,$,"203 G St, Davis, CA 95616",38.5451,-121.7441
+International Food Market,NaN,0,Supermarket,$,"104 E St, Davis, CA 95616",38.5445,-121.741
+Sage Street Bistro,NaN,0,Cafe,$,"231 G St, Davis, CA 95616",38.5451,-121.7441
+Stand Up Kabob,NaN,0,"Middleeastern, Persian",$$ - $$$,"227 G St, Davis, CA 95616",38.5451,-121.7441
+Teaspoon,NaN,0,Boba,$,"231 E St, Davis, CA 95616",38.5447,-121.7428
+Ramen House,NaN,0,Japanese,$$ - $$$,"224 G St, Davis, CA 95616",38.5451,-121.7441
+Safeway Deli,NaN,0,Deli,$,"2121 Cowell Blvd, Davis, CA 95618",38.5422,-121.7001
+Papa Murphy's,NaN,0,Pizza,$$ - $$$,"1411 W Covell Blvd, Davis, CA 95616",38.5615,-121.782
+Pizza Hut Express,NaN,0,Pizza,$$ - $$$,"1341 W Covell Blvd, Davis, CA 95616",38.5603,-121.7371
+Mountain Mike's Pizza,NaN,0,Pizza,$$ - $$$,"1411 W Covell Blvd, Davis, CA 95616",38.5615,-121.782
+WunderBarBQewe,NaN,0,Bar,$$ - $$$,"228 G St, Davis, CA 95616 (Inside G Street WunderBar)",38.5451,-121.7441
+Fire Wings,NaN,0,American,$$ - $$$,"129 E St, Davis, CA 95616",38.5447,-121.7431
+The Sandwich Spot,NaN,0,Deli,$,"119 E St, Davis, CA 95616",38.5445,-121.741
+Nopalito Taqueria,NaN,0,Mexican,$,"2191 Cowell Blvd, Davis, CA 95618",38.5422,-121.7002
+Square Pie Guys,NaN,0,Pizza,$$ - $$$,"500 1st St, Davis, CA 95616 (Operating out of Local Kitchens)",38.543,-121.741
+Nash & Proper,NaN,0,American,$,"500 1st St, Davis, CA 95616 (Operating out of Local Kitchens)",38.543,-121.741
+Starbucks,NaN,0,Cafe,$,"1421 W Covell Blvd, Davis, CA 95616",38.5615,-121.782
+Tim's Hawaiian BBQ,NaN,0,"Japanese, American",$$ - $$$,"247 3rd St, Davis, CA 95616",38.5456,-121.7455
+Pardon My Cheesesteak,NaN,0,American,$$ - $$$,"200 E St, Davis, CA 95616 (Operating out of a ghost kitchen)",38.5447,-121.7428
+KFC,NaN,0,American,$$ - $$$,"1400 W Covell Blvd, Davis, CA 95616",38.5603,-121.7371
+Safeway Deli,NaN,0,Deli,$,"1471 W Covell Blvd, Davis, CA 95616",38.5615,-121.782
+Taco Bell,NaN,0,Mexican,$,"1411 W Covell Blvd, Davis, CA 95616",38.5615,-121.782
+Peet's Coffee,NaN,0,Cafe,$,"1411 W Covell Blvd, Davis, CA 95616",38.5615,-121.782
+Carl's Jr.,NaN,0,American,$,"227 G St, Davis, CA 95616",38.5451,-121.7441
+Nashoba Wines,NaN,0,Bar,$$ - $$$,"237 E St, Davis, CA 95616",38.5447,-121.7428
+G Street WunderBar,NaN,0,Bar,$$ - $$$,"228 G St, Davis, CA 95616",38.5451,-121.7441
+Cloud Forest Cafe,NaN,0,Cafe,$,"241 D St, Davis, CA 95616",38.5445,-121.7423
+Kim's Mart,NaN,0,Supermarket,$,"628 4th St, Davis, CA 95616",38.5471,-121.7448
+Black Frog Coffee,NaN,0,Cafe,$,"521 2nd St, Davis, CA 95616",38.5434,-121.7483
+Ho Ho Market,NaN,0,Supermarket,$,"511 B St, Davis, CA 95616",38.5445,-121.7456
+Davis Bread & Desserts,NaN,0,Bakery,$,"826 2nd St, Davis, CA 95616",38.5434,-121.7483
+I-Tea UC Davis,NaN,0,Boba,$,"130 G St, Davis, CA 95616",38.5439,-121.746
+Davis Food Co-op,NaN,0,Supermarket,$,"620 G St, Davis, CA 95616",38.5471,-121.7448
+Cuarto Dining Commons,NaN,0,UCDavis,$$ - $$$,"1100 B St, Davis, CA 95616 (UC Davis Campus)",38.5375,-121.746
+Trader Joe's,NaN,0,Supermarket,$,"1302 W Covell Blvd, Davis, CA 95616",38.5603,-121.7371
+Pink Dozen,NaN,0,Donuts,$,"1300 E Covell Blvd, Davis, CA 95616",38.5603,-121.7371
+Fast & Easy Mart,NaN,0,Supermarket,$,"1601 Research Park Dr, Davis, CA 95618",38.5422,-121.7002
+Save Mart Supermarket,NaN,0,Supermarket,$,"1900 Anderson Rd, Davis, CA 95616",38.5606,-121.7584
+Wayback Burgers,NaN,0,American,$,"1351 W Covell Blvd, Davis, CA 95616",38.5603,-121.7371
+Sesame INC,NaN,0,American,$$ - $$$,(No public restaurant address found; likely a business or ghost kitchen),38.5422,-121.7002
+Loop,NaN,0,Conviniencestore,$,"1944 Anderson Rd, Davis, CA 95616",38.5606,-121.7584
+Bro's Liquor Store,NaN,0,Bar,$,"1046 Olive Dr, Davis, CA 95616",38.5408,-121.738
+Shah's Halal Food,NaN,0,Middleeastern,$$ - $$$,"865 Russell Blvd, Suite 120, Davis, CA 95616",38.5467,-121.761
+Smokina€™Ewe Bbq,NaN,0,American,$$ - $$$,"228 G St, Davis, CA 95616 (Operating out of G Street WunderBar)",38.5451,-121.7441
+Round Table Pizza,NaN,0,Pizza,$,"1411 W Covell Blvd, Davis, CA 95616",38.5615,-121.782
+7-Eleven,NaN,0,Conviniencestore,$,"400 Mace Blvd, Davis, CA 95618",38.5539,-121.7013
+Yi Tea,NaN,0,Boba,$,"225 G St, Davis, CA 95616",38.5451,-121.7441
+BROS LIQUOR 1,NaN,0,Bar,$,"1046 Olive Dr, Davis, CA 95616 (Duplicate of Bro's Liquor Store)",38.5408,-121.738
+Root of Happiness,NaN,0,Bar,$$ - $$$,"211 F St, Davis, CA 95616",38.5447,-121.7454
+T4 tea for u,NaN,0,Boba,$,"132 E St, Ste 190, Davis, CA 95616",38.5447,-121.7428
+See's Candies,NaN,0,"Chocolate, Candy",$$ - $$$,"1361 W Covell Blvd, #117B, Davis, CA 95616",38.5615,-121.782
+The Chicken Hawkers Davis,NaN,0,Chinese,$$ - $$$,"417 Mace Blvd, Davis, CA 95618",38.5539,-121.7013
+Chevron ExtraMile,NaN,0,Conviniencestore,$,"333 Mace Blvd, Davis, CA 95618",38.5539,-121.7013
